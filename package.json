@@ -1,0 +1,15 @@
+{
+  "name": "node-jekyll",
+  "version": "0.0.1",
+  "description": "Node.js based Jekyll implementation",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ex37/node-jekyll.git"
+  },
+  "author": {
+    "name": "Eduard Ghazanchyan",
+    "email": "eduardgx@gmail.com"
+  },
+  "license": "ISC"
+}
